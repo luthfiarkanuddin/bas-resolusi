@@ -2,3 +2,5 @@ BAS RESOLUSI
 - Konsisten di jalur syariah dalam setiap akad
 - Membuat sistem untuk otomasi slip gaji
 - Membuat konsep acara kick-off meeting
+- Membuat github
+- Berkolaborasi dengan bagian lain
